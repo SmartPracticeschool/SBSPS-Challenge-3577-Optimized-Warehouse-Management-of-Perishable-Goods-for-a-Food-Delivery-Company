@@ -11,4 +11,6 @@ Report link : https://drive.google.com/file/d/1QBPtCoz0nhu161_v8nOZgGTUqWW0Q2Ua/
 
 PPT link : https://drive.google.com/file/d/1wjovxYWV-dwIghNFaJe_yfyK29p7o83b/view?usp=sharing
 
+Application link : https://node-red-dkbjm.eu-gb.mybluemix.net/ui/#!/2?socketid=dfAPvVX9Vovm4EknAAEk
+
 ![alt-text](https://github.com/SmartPracticeschool/SBSPS-Challenge-3577-Optimized-Warehouse-Management-of-Perishable-Goods-for-a-Food-Delivery-Company/blob/master/2bit_Demo.gif)
